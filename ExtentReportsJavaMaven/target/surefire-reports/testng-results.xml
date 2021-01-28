@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9114" started-at="2020-11-07T21:44:07 IST" finished-at="2020-11-07T21:44:16 IST">
+    <groups>
+    </groups>
+    <test name="TestReport" duration-ms="9114" started-at="2020-11-07T21:44:07 IST" finished-at="2020-11-07T21:44:16 IST">
+      <class name="jayashreeautomation.ExtentReportsJava.ExtentReportsTest">
+        <test-method status="PASS" signature="reportingConfig()[pri:0, instance:jayashreeautomation.ExtentReportsJava.ExtentReportsTest@3c0f93f1]" name="reportingConfig" is-config="true" duration-ms="707" started-at="2020-11-07T21:44:07 IST" finished-at="2020-11-07T21:44:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportingConfig -->
+        <test-method status="PASS" signature="extentreportingDemo()[pri:0, instance:jayashreeautomation.ExtentReportsJava.ExtentReportsTest@3c0f93f1]" name="extentreportingDemo" duration-ms="8328" started-at="2020-11-07T21:44:08 IST" finished-at="2020-11-07T21:44:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentreportingDemo -->
+      </class> <!-- jayashreeautomation.ExtentReportsJava.ExtentReportsTest -->
+    </test> <!-- TestReport -->
+  </suite> <!-- Suite -->
+</testng-results>
